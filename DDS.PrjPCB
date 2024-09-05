@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKVQUJMM
 
 [Document5]
-DocumentPath=..\STSrc\CrBrd\LDOs.SchDoc
+DocumentPath=DDS_LDOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
